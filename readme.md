@@ -1,6 +1,6 @@
 # Beanstalkd container service
 
-A basic [beanstalkd][https://kr.github.io/beanstalkd/] container.
+A basic [beanstalkd](https://kr.github.io/beanstalkd/) container.
 
 
 ## Configuration
